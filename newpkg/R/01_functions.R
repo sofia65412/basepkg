@@ -4,3 +4,8 @@ Today <- function(){
   return(date)
 }
 
+Test <- function(){
+  print("Hello Nick!")
+  return(invisible)
+}
+  
